@@ -57,6 +57,7 @@ textarea {
     cursor: pointer;
     border-radius: 5px;
     border: none;
+    outline:none;
 }
 #hapus {
     width: 35%;
@@ -65,6 +66,7 @@ textarea {
     cursor: pointer;
     border-radius:5px ;
     border: none;
+    outline:none;
 }
 .pesan {
     width: 250px;
